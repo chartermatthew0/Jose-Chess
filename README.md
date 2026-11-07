@@ -207,4 +207,4 @@ jose Chess is provided as a full free version with all features and updates incl
 Ready to sharpen your chess skills? Download **jose Chess** now and take your gameplay to the next level!
 
 ---
-**Last updated:** 2026-11-07 14:27:23 UTC
+**Last updated:** 2026-11-07 19:07:46 UTC
